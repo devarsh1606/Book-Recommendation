@@ -11,7 +11,7 @@ https://drive.google.com/open?id=1zmy... //goodreads_interactions.csv
 ## Concept:
 https://youtu.be/Fmtorg_dmM0 // Collaborative filtering
 
-##Input and its Output
+## Input and its Output
 
 ![image](https://github.com/devarsh1606/Book-Recommendation/blob/main/SSBookRecomendation.png)
 
